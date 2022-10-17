@@ -1,4 +1,4 @@
-[![MasterHead](https://png.pngtree.com/thumb_back/fh260/background/20190625/pngtree-gradual-background-of-data-science-and-technology-elements-image_177307.jpg)
+![MasterHead](https://png.pngtree.com/thumb_back/fh260/background/20190625/pngtree-gradual-background-of-data-science-and-technology-elements-image_177307.jpg)
 <h1 align="center">Hi 👋, I'm Amal krishna</h1>
 <h3 align="center">I am a passionate Data scientist and python developer from Kerala.</h3>
 <img align="right" alt="Coding" width="400" src="https://149695847.v2.pressablecdn.com/wp-content/uploads/2019/02/Digital-Marketing-Write-For-Us.gif">
